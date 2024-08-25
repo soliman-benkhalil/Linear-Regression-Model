@@ -14,3 +14,7 @@ Training Score: 0.643
 Testing Score: 0.621
 RMSE: 65702.34
 R² Score: 0.621
+
+
+## Dataset Link
+https://www.kaggle.com/datasets/camnugent/california-housing-prices/data
