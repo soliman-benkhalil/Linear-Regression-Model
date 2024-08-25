@@ -18,3 +18,6 @@ R² Score: 0.621
 
 ## Dataset Link
 https://www.kaggle.com/datasets/camnugent/california-housing-prices/data
+
+## Code On Kaggle
+https://www.kaggle.com/code/solimankhalil/cleaning-dataset-and-model
